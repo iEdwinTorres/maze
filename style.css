@@ -1,0 +1,30 @@
+
+
+.block {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    
+    
+}
+
+.wall {
+    background-color: black;
+}
+
+.start {
+    background-color: red;
+}
+
+.finish {
+    background-color: green;
+}
+
+#box { 
+    width: 25px; 
+    height: 25px; 
+    position: absolute; 
+    background: gray; 
+    left: 8px; 
+    top: 311px; 
+}
